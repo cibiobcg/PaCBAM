@@ -6,4 +6,4 @@ PaCBAM: Fast and scalable NGS data processing
 
 %labels
 	Maintainer Laboratory of Bioinformatics and Computational Genomics, CIBIO, University of Trento, Italy
-    Version 1.4.11
+    Version 1.5.0
